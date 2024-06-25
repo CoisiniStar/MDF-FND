@@ -1,2 +1,2 @@
 # MDF
-MDF Framework for Multimodal False News Detection
+MDF Framework for Multimodal Fake News Detection
