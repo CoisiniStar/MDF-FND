@@ -1,2 +1,2 @@
 # MDF
-A Dynamic Fusion Framework for Multimodal False News Detection
+A Dynamic Fusion Framework for Multimodal Fake News Detection
